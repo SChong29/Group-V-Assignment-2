@@ -1,0 +1,11 @@
+- How is the Gantt displayed
+
+- How to map the task to struct
+
+- How did you edit and change tasks
+
+- How did you implement search for a circular dependency
+
+- What’s your Ascii art about?
+
+- Git Repo: https://csgitlab.ucd.ie/SChong29/group-v-assignment-2.git
